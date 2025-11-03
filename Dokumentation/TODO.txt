@@ -1,2 +1,1 @@
-nächste mal: AUfabu verbesseren und gutstruckturiert das was schon da ist neu aufbauen dokumentieren und klar abgrenzen sodassa erstmal alles was schon exiestiert ordentlich in das projekt übernommen wird.
-Anschliesend planen was als nächstes projekt planen.
+nächste mal: schauen ob es genug teile gibt um den aufbau für lenkmotoren auf allen rädern gleichzeitig machbar wäre(vorallem ob die verbindungsteile die ich nicht entwurfen habe 4 mal vorhanden sind oder ob ich die evtl bestellen muss andere teile nehmen muss und dann die von mir entwurfenen sachen angepasst werden müssen)
