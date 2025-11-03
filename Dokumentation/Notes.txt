@@ -1,3 +1,4 @@
+Momentane geplante aufbau des projekts für bessere Überschaubarkeit.
 RC-Car-Projekt/
 │
 ├── README.md
